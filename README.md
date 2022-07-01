@@ -1,10 +1,6 @@
 # exercice-corpseES
-test
- **Selim** pourquoi tu n'as pas créer d'*histoire*? :-(
+My story **with mardowns**
+bla bla bla
 
- Ou est-ce moi qui ai fait une mauvaise manip? :cold_sweat:
+Ok perfect
 
-*Non*, **ne t'en fait pas !**
-
-***Il découvrira bien assez vite comment faire son histoire.***\
-~~Enfin, peut-être...~~ :thinking:
